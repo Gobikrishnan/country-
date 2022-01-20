@@ -1,0 +1,4796 @@
+{
+    "countryMap": {
+        "PR": {
+            "active": true,
+            "countryCode": "PR",
+            "countryThreeLtr": "PRI",
+            "countryName": "Puerto Rico",
+            "isdCode": "787",
+            "currencyCode": "USD",
+            "nationality": "Puerto Rican",
+            "nationalityCode": "PR",
+            "numericCountryCode": 84,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PS": {
+            "active": true,
+            "countryCode": "PS",
+            "countryThreeLtr": "PSE",
+            "countryName": "Palestine",
+            "isdCode": "970",
+            "currencyCode": "EUR",
+            "nationality": "Palestenian",
+            "nationalityCode": "PS",
+            "firstDayInWeek": 0,
+            "numericCountryCode": 275,
+            "regionVO": {
+                "active": true,
+                "regionCode": "LENA",
+                "regionName": "Levant",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PT": {
+            "active": true,
+            "countryCode": "PT",
+            "countryThreeLtr": "PRT",
+            "countryName": "Portugal",
+            "isdCode": "351",
+            "currencyCode": "EUR",
+            "nationality": "Portuguese",
+            "nationalityCode": "PT",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PW": {
+            "active": true,
+            "countryCode": "PW",
+            "countryThreeLtr": "PLW",
+            "countryName": "Palau",
+            "isdCode": "680",
+            "currencyCode": "USD",
+            "nationality": "Palauan",
+            "nationalityCode": "PW",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PY": {
+            "active": true,
+            "countryCode": "PY",
+            "countryThreeLtr": "PRY",
+            "countryName": "Paraguay",
+            "isdCode": "595",
+            "currencyCode": "USD",
+            "nationality": "Paraguayan",
+            "nationalityCode": "PY",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 600,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "QA": {
+            "active": true,
+            "countryCode": "QA",
+            "countryThreeLtr": "QAT",
+            "countryName": "Qatar",
+            "isdCode": "974",
+            "currencyCode": "QAR",
+            "nationality": "Qatari",
+            "nationalityCode": "QAT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 108,
+            "regionVO": {
+                "active": true,
+                "regionCode": "QAR",
+                "regionName": "QATAR",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AD": {
+            "active": true,
+            "countryCode": "AD",
+            "countryThreeLtr": "AND",
+            "countryName": "Andorra",
+            "isdCode": "376",
+            "currencyCode": "EUR",
+            "nationality": "Andorran",
+            "nationalityCode": "AD",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AE": {
+            "active": true,
+            "countryCode": "AE",
+            "countryThreeLtr": "ARE",
+            "countryName": "United Arab Emirates",
+            "isdCode": "971",
+            "currencyCode": "AED",
+            "nationality": "UAE National",
+            "nationalityCode": "AE",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 41,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AF": {
+            "active": true,
+            "countryCode": "AF",
+            "countryThreeLtr": "AFG",
+            "countryName": "Afghanistan",
+            "isdCode": "93",
+            "currencyCode": "INR",
+            "nationality": "Afghan",
+            "nationalityCode": "AF",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 4,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AG": {
+            "active": true,
+            "countryCode": "AG",
+            "countryThreeLtr": "ATG",
+            "countryName": "Antigua and Barbuda",
+            "isdCode": "1268",
+            "currencyCode": "USD",
+            "nationality": "Antiguan / Barbudan",
+            "nationalityCode": "AG",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 82,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AI": {
+            "active": true,
+            "countryCode": "AI",
+            "countryThreeLtr": "AIA",
+            "countryName": "Anguilla",
+            "isdCode": "264",
+            "currencyCode": "XCD",
+            "nationality": "Anguillan",
+            "nationalityCode": "AI",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AL": {
+            "active": true,
+            "countryCode": "AL",
+            "countryThreeLtr": "ALB",
+            "countryName": "Albania",
+            "isdCode": "355",
+            "currencyCode": "EUR",
+            "nationality": "Albanian",
+            "nationalityCode": "AL",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 8,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AM": {
+            "active": true,
+            "countryCode": "AM",
+            "countryThreeLtr": "ARM",
+            "countryName": "Armenia",
+            "isdCode": "374",
+            "currencyCode": "EUR",
+            "nationality": "Armenian",
+            "nationalityCode": "AM",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 102,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AO": {
+            "active": true,
+            "countryCode": "AO",
+            "countryThreeLtr": "AGO",
+            "countryName": "Angola",
+            "isdCode": "244",
+            "currencyCode": "USD",
+            "nationality": "Angolan",
+            "nationalityCode": "AO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 96,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AR": {
+            "active": true,
+            "countryCode": "AR",
+            "countryThreeLtr": "ARG",
+            "countryName": "Argentina",
+            "isdCode": "54",
+            "currencyCode": "ARS",
+            "nationality": "Argentinean",
+            "nationalityCode": "ARG",
+            "firstDayInWeek": 0,
+            "numericCountryCode": 32,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AS": {
+            "active": true,
+            "countryCode": "AS",
+            "countryThreeLtr": "ASM",
+            "countryName": "American Samoa",
+            "isdCode": "684",
+            "currencyCode": "USD",
+            "nationality": "Samoan",
+            "nationalityCode": "AS",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AT": {
+            "active": true,
+            "countryCode": "AT",
+            "countryThreeLtr": "AUT",
+            "countryName": "Austria",
+            "isdCode": "43",
+            "currencyCode": "EUR",
+            "nationality": "Austrian",
+            "nationalityCode": "AT",
+            "numericCountryCode": 27,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RE": {
+            "active": true,
+            "countryCode": "RE",
+            "countryThreeLtr": "REU",
+            "countryName": "Reunion",
+            "isdCode": "262",
+            "currencyCode": "USD",
+            "nationality": "Reunion",
+            "nationalityCode": "RE",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 638,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AU": {
+            "active": true,
+            "countryCode": "AU",
+            "countryThreeLtr": "AUS",
+            "countryName": "Australia",
+            "isdCode": "61",
+            "currencyCode": "AUD",
+            "nationality": "Australian",
+            "nationalityCode": "AU",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 36,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AUS",
+                "regionName": "AUSTRALIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AW": {
+            "active": true,
+            "countryCode": "AW",
+            "countryThreeLtr": "ABW",
+            "countryName": "Aruba",
+            "isdCode": "297",
+            "currencyCode": "USD",
+            "nationality": "Aruban",
+            "nationalityCode": "AW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 553,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "AZ": {
+            "active": true,
+            "countryCode": "AZ",
+            "countryThreeLtr": "AZE",
+            "countryName": "Azerbaijan",
+            "isdCode": "994",
+            "currencyCode": "AZN",
+            "nationality": "Azerbaijani",
+            "nationalityCode": "AZ",
+            "numericCountryCode": 123,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RK": {
+            "active": true,
+            "countryCode": "RK",
+            "countryThreeLtr": "RKS",
+            "countryName": "kosovo",
+            "isdCode": "383",
+            "currencyCode": "EUR",
+            "nationality": "Kosovo",
+            "nationalityCode": "RK",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 378,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RO": {
+            "active": true,
+            "countryCode": "RO",
+            "countryThreeLtr": "ROU",
+            "countryName": "Romania",
+            "isdCode": "40",
+            "currencyCode": "EUR",
+            "nationality": "Romanian",
+            "nationalityCode": "RO",
+            "numericCountryCode": 40,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BA": {
+            "active": true,
+            "countryCode": "BA",
+            "countryThreeLtr": "BIH",
+            "countryName": "Bosnia and Herzegovina",
+            "isdCode": "387",
+            "currencyCode": "EUR",
+            "nationality": "Bosnia and Herzegovina",
+            "nationalityCode": "BIH",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 70,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BB": {
+            "active": true,
+            "countryCode": "BB",
+            "countryThreeLtr": "BRB",
+            "countryName": "Barbados",
+            "isdCode": "246",
+            "currencyCode": "USD",
+            "nationality": "Barbadian",
+            "nationalityCode": "BB",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 125,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RS": {
+            "active": true,
+            "countryCode": "RS",
+            "countryThreeLtr": "SRB",
+            "countryName": "Serbia",
+            "isdCode": "381",
+            "currencyCode": "EUR",
+            "nationality": "Serbian",
+            "nationalityCode": "SRB",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 688,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BD": {
+            "active": true,
+            "countryCode": "BD",
+            "countryThreeLtr": "BGD",
+            "countryName": "Bangladesh",
+            "isdCode": "880",
+            "currencyCode": "BDT",
+            "nationality": "Bangladeshi",
+            "nationalityCode": "BD",
+            "numericCountryCode": 103,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BE": {
+            "active": true,
+            "countryCode": "BE",
+            "countryThreeLtr": "BEL",
+            "countryName": "Belgium",
+            "isdCode": "32",
+            "currencyCode": "EUR",
+            "nationality": "Belgian",
+            "nationalityCode": "BE",
+            "numericCountryCode": 36,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RU": {
+            "active": true,
+            "countryCode": "RU",
+            "countryThreeLtr": "RUS",
+            "countryName": "Russia",
+            "isdCode": "7",
+            "currencyCode": "RUB",
+            "nationality": "Russian",
+            "nationalityCode": "RUS",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 119,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BF": {
+            "active": true,
+            "countryCode": "BF",
+            "countryThreeLtr": "BFA",
+            "countryName": "Burkina Faso",
+            "isdCode": "226",
+            "currencyCode": "USD",
+            "nationality": "Burkinabe",
+            "nationalityCode": "BF",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 854,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "RW": {
+            "active": true,
+            "countryCode": "RW",
+            "countryThreeLtr": "RWA",
+            "countryName": "Rwanda",
+            "isdCode": "250",
+            "currencyCode": "USD",
+            "nationality": "Rwandese",
+            "nationalityCode": "RW",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BG": {
+            "active": true,
+            "countryCode": "BG",
+            "countryThreeLtr": "BGR",
+            "countryName": "Bulgaria",
+            "isdCode": "359",
+            "currencyCode": "BGN",
+            "nationality": "Bulgarian",
+            "nationalityCode": "BG",
+            "numericCountryCode": 100,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BH": {
+            "active": true,
+            "countryCode": "BH",
+            "countryThreeLtr": "BHR",
+            "countryName": "Bahrain",
+            "isdCode": "973",
+            "currencyCode": "BHD",
+            "nationality": "Bahraini",
+            "nationalityCode": "BH",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BI": {
+            "active": true,
+            "countryCode": "BI",
+            "countryThreeLtr": "BDI",
+            "countryName": "Burundi",
+            "isdCode": "257",
+            "currencyCode": "USD",
+            "nationality": "Burundian",
+            "nationalityCode": "BI",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 108,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BJ": {
+            "active": true,
+            "countryCode": "BJ",
+            "countryThreeLtr": "BEN",
+            "countryName": "Benin",
+            "isdCode": "229",
+            "currencyCode": "USD",
+            "nationality": "Beninese",
+            "nationalityCode": "BJ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 204,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BM": {
+            "active": true,
+            "countryCode": "BM",
+            "countryThreeLtr": "BMU",
+            "countryName": "Bermuda",
+            "isdCode": "1-441",
+            "currencyCode": "USD",
+            "nationality": "Bermudian",
+            "nationalityCode": "BM",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 60,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BN": {
+            "active": true,
+            "countryCode": "BN",
+            "countryThreeLtr": "BRN",
+            "countryName": "Brunei",
+            "isdCode": "673",
+            "currencyCode": "MYR",
+            "nationality": "Bruneian",
+            "nationalityCode": "BN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 96,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BO": {
+            "active": true,
+            "countryCode": "BO",
+            "countryThreeLtr": "BOL",
+            "countryName": "Bolivia",
+            "isdCode": "591",
+            "currencyCode": "USD",
+            "nationality": "Bolivian",
+            "nationalityCode": "BO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 68,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SA": {
+            "active": true,
+            "countryCode": "SA",
+            "countryThreeLtr": "SAU",
+            "countryName": "Saudi Arabia",
+            "isdCode": "966",
+            "currencyCode": "SAR",
+            "nationality": "Saudi Arabian",
+            "nationalityCode": "SA",
+            "numericCountryCode": 42,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SB": {
+            "active": true,
+            "countryCode": "SB",
+            "countryThreeLtr": "SLB",
+            "countryName": "Solomon Islands",
+            "isdCode": "677",
+            "currencyCode": "SBD",
+            "nationality": "Solomon Islander",
+            "nationalityCode": "SB",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BQ": {
+            "active": true,
+            "countryCode": "BQ",
+            "countryThreeLtr": "BES",
+            "countryName": "Bonaire St (E and S)",
+            "isdCode": "599",
+            "currencyCode": "USD",
+            "nationality": "Bonaire St (E and S)",
+            "nationalityCode": "BQ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 535,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BR": {
+            "active": true,
+            "countryCode": "BR",
+            "countryThreeLtr": "BRA",
+            "countryName": "Brazil",
+            "isdCode": "55",
+            "currencyCode": "BRL",
+            "nationality": "Brazilian",
+            "nationalityCode": "BR",
+            "numericCountryCode": 57,
+            "regionVO": {
+                "active": true,
+                "regionCode": "BR",
+                "regionName": "BRAZIL",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SC": {
+            "active": true,
+            "countryCode": "SC",
+            "countryThreeLtr": "SYC",
+            "countryName": "Seychelles",
+            "isdCode": "248",
+            "currencyCode": "USD",
+            "nationality": "Seychellois",
+            "nationalityCode": "SC",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BS": {
+            "active": true,
+            "countryCode": "BS",
+            "countryThreeLtr": "BHS",
+            "countryName": "Bahamas",
+            "isdCode": "242",
+            "currencyCode": "USD",
+            "nationality": "Bahamian",
+            "nationalityCode": "BS",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 44,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SD": {
+            "active": true,
+            "countryCode": "SD",
+            "countryThreeLtr": "SDN",
+            "countryName": "Sudan",
+            "isdCode": "249",
+            "currencyCode": "USD",
+            "nationality": "Sudanese",
+            "nationalityCode": "SD",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NAFR",
+                "regionName": "N Africa",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BT": {
+            "active": true,
+            "countryCode": "BT",
+            "countryThreeLtr": "BTN",
+            "countryName": "Bhutan",
+            "isdCode": "975",
+            "currencyCode": "BTN",
+            "nationality": "Bhutanese",
+            "nationalityCode": "BT",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SE": {
+            "active": true,
+            "countryCode": "SE",
+            "countryThreeLtr": "SWE",
+            "countryName": "Sweden",
+            "isdCode": "46",
+            "currencyCode": "SEK",
+            "nationality": "Swedish",
+            "nationalityCode": "SE",
+            "numericCountryCode": 50,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SG": {
+            "active": true,
+            "countryCode": "SG",
+            "countryThreeLtr": "SGP",
+            "countryName": "Singapore",
+            "isdCode": "65",
+            "currencyCode": "SGD",
+            "nationality": "Singaporean",
+            "nationalityCode": "SGP",
+            "firstDayInWeek": 0,
+            "numericCountryCode": 22,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BW": {
+            "active": true,
+            "countryCode": "BW",
+            "countryThreeLtr": "BWA",
+            "countryName": "Botswana",
+            "isdCode": "267",
+            "currencyCode": "USD",
+            "nationality": "Botswanan",
+            "nationalityCode": "BW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 94,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SH": {
+            "active": true,
+            "countryCode": "SH",
+            "countryThreeLtr": "SHN",
+            "countryName": "St Helena",
+            "isdCode": "290",
+            "currencyCode": "SHP",
+            "nationality": "Saint Helenian",
+            "nationalityCode": "SHN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 654,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SI": {
+            "active": true,
+            "countryCode": "SI",
+            "countryThreeLtr": "SVN",
+            "countryName": "Slovenia",
+            "isdCode": "386",
+            "currencyCode": "EUR",
+            "nationality": "Slovene",
+            "nationalityCode": "SI",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BY": {
+            "active": true,
+            "countryCode": "BY",
+            "countryThreeLtr": "BLR",
+            "countryName": "Belarus",
+            "isdCode": "375",
+            "currencyCode": "EUR",
+            "nationality": "Belarus",
+            "nationalityCode": "BY",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 112,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "BZ": {
+            "active": true,
+            "countryCode": "BZ",
+            "countryThreeLtr": "BLZ",
+            "countryName": "Belize",
+            "isdCode": "501",
+            "currencyCode": "USD",
+            "nationality": "Belizean",
+            "nationalityCode": "BZ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 84,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SK": {
+            "active": true,
+            "countryCode": "SK",
+            "countryThreeLtr": "SVK",
+            "countryName": "Slovakia",
+            "isdCode": "421",
+            "currencyCode": "EUR",
+            "nationality": "Slovak",
+            "nationalityCode": "SK",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 703,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SL": {
+            "active": true,
+            "countryCode": "SL",
+            "countryThreeLtr": "SLE",
+            "countryName": "Sierra Leone",
+            "isdCode": "232",
+            "currencyCode": "USD",
+            "nationality": "Sierra Leonean",
+            "nationalityCode": "SL",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 694,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SM": {
+            "active": true,
+            "countryCode": "SM",
+            "countryThreeLtr": "SMR",
+            "countryName": "San Marino",
+            "isdCode": "378",
+            "currencyCode": "EUR",
+            "nationality": "Sammarinese",
+            "nationalityCode": "SMR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 674,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SN": {
+            "active": true,
+            "countryCode": "SN",
+            "countryThreeLtr": "SEN",
+            "countryName": "Senegal",
+            "isdCode": "221",
+            "currencyCode": "USD",
+            "nationality": "Senegalese",
+            "nationalityCode": "SN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 686,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SO": {
+            "active": true,
+            "countryCode": "SO",
+            "countryThreeLtr": "SOM",
+            "countryName": "Somalia",
+            "isdCode": "252",
+            "currencyCode": "USD",
+            "nationality": "Somali",
+            "nationalityCode": "SO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 706,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CA": {
+            "active": true,
+            "countryCode": "CA",
+            "countryThreeLtr": "CAN",
+            "countryName": "Canada",
+            "isdCode": "1",
+            "currencyCode": "CAD",
+            "nationality": "Canadian",
+            "nationalityCode": "CA",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SR": {
+            "active": true,
+            "countryCode": "SR",
+            "countryThreeLtr": "SUR",
+            "countryName": "Suriname",
+            "isdCode": "597",
+            "currencyCode": "SRD",
+            "nationality": "Surinamese",
+            "nationalityCode": "SR",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SS": {
+            "active": true,
+            "countryCode": "SS",
+            "countryThreeLtr": "SSD",
+            "countryName": "South Sudan",
+            "isdCode": "211",
+            "currencyCode": "USD",
+            "nationality": "South Sudan",
+            "nationalityCode": "SS",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 728,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CC": {
+            "active": true,
+            "countryCode": "CC",
+            "countryThreeLtr": "CCK",
+            "countryName": "Cocos Islands",
+            "isdCode": "61891",
+            "currencyCode": "AUD",
+            "nationality": "Cocos Islander",
+            "nationalityCode": "CC",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 166,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ST": {
+            "active": true,
+            "countryCode": "ST",
+            "countryThreeLtr": "STP",
+            "countryName": "Sao Tome and Principe",
+            "isdCode": "239",
+            "currencyCode": "STD",
+            "nationality": "Sao Tomean",
+            "nationalityCode": "ST",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CD": {
+            "active": true,
+            "countryCode": "CD",
+            "countryThreeLtr": "COD",
+            "countryName": "Democratic Republic of the Congo",
+            "isdCode": "243",
+            "currencyCode": "USD",
+            "nationality": "Congolese (Democratic Republic of the congo)",
+            "nationalityCode": "CD",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 148,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CF": {
+            "active": true,
+            "countryCode": "CF",
+            "countryThreeLtr": "CAF",
+            "countryName": "Central African Republic",
+            "isdCode": "236",
+            "currencyCode": "USD",
+            "nationality": "Central African",
+            "nationalityCode": "CF",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 140,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SV": {
+            "active": true,
+            "countryCode": "SV",
+            "countryThreeLtr": "SLV",
+            "countryName": "El Salvador",
+            "isdCode": "503",
+            "currencyCode": "USD",
+            "nationality": "Salvadorean",
+            "nationalityCode": "SV",
+            "numericCountryCode": 73,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CG": {
+            "active": true,
+            "countryCode": "CG",
+            "countryThreeLtr": "COG",
+            "countryName": "Republic of the Congo",
+            "isdCode": "242",
+            "currencyCode": "USD",
+            "nationality": "Congolese (Republic of the Congo)",
+            "nationalityCode": "CG",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 178,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CH": {
+            "active": true,
+            "countryCode": "CH",
+            "countryThreeLtr": "CHE",
+            "countryName": "Switzerland",
+            "isdCode": "41",
+            "currencyCode": "CHF",
+            "nationality": "Swiss",
+            "nationalityCode": "CH",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 756,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SX": {
+            "active": true,
+            "countryCode": "SX",
+            "countryThreeLtr": "SXM",
+            "countryName": "St Maarten (Dutch)",
+            "isdCode": "1-721",
+            "currencyCode": "USD",
+            "nationality": "St Maarten (Dutch)",
+            "nationalityCode": "SX",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 534,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SY": {
+            "active": true,
+            "countryCode": "SY",
+            "countryThreeLtr": "SYR",
+            "countryName": "Syria",
+            "isdCode": "963",
+            "currencyCode": "SYP",
+            "nationality": "Syrian",
+            "nationalityCode": "SY",
+            "numericCountryCode": 110,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CI": {
+            "active": true,
+            "countryCode": "CI",
+            "countryThreeLtr": "CIV",
+            "countryName": "Ivory Coast",
+            "isdCode": "225",
+            "currencyCode": "USD",
+            "nationality": "Ivorian",
+            "nationalityCode": "CI",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 384,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "SZ": {
+            "active": true,
+            "countryCode": "SZ",
+            "countryThreeLtr": "SWZ",
+            "countryName": "Swaziland",
+            "isdCode": "268",
+            "currencyCode": "USD",
+            "nationality": "Swazi",
+            "nationalityCode": "SZ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 748,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CK": {
+            "active": true,
+            "countryCode": "CK",
+            "countryThreeLtr": "COK",
+            "countryName": "Cook Islands",
+            "isdCode": "682",
+            "currencyCode": "NZD",
+            "nationality": "Cook Islander",
+            "nationalityCode": "CK",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CL": {
+            "active": true,
+            "countryCode": "CL",
+            "countryThreeLtr": "CHL",
+            "countryName": "Chile",
+            "isdCode": "56",
+            "currencyCode": "USD",
+            "nationality": "Chilean",
+            "nationalityCode": "CL",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 75,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CM": {
+            "active": true,
+            "countryCode": "CM",
+            "countryThreeLtr": "CMR",
+            "countryName": "Cameroon",
+            "isdCode": "237",
+            "currencyCode": "USD",
+            "nationality": "Cameroonian",
+            "nationalityCode": "CM",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 120,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CN": {
+            "active": true,
+            "countryCode": "CN",
+            "countryThreeLtr": "CHN",
+            "countryName": "China",
+            "isdCode": "86",
+            "currencyCode": "CNY",
+            "nationality": "Chinese",
+            "nationalityCode": "CN",
+            "numericCountryCode": 59,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CO": {
+            "active": true,
+            "countryCode": "CO",
+            "countryThreeLtr": "COL",
+            "countryName": "Colombia",
+            "isdCode": "57",
+            "currencyCode": "USD",
+            "nationality": "Colombian",
+            "nationalityCode": "CO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 76,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TC": {
+            "active": true,
+            "countryCode": "TC",
+            "countryThreeLtr": "TCA",
+            "countryName": "Turks and Caicos Islands",
+            "isdCode": "1649",
+            "currencyCode": "USD",
+            "nationality": "Turks and Caicos Islander",
+            "nationalityCode": "TC",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CR": {
+            "active": true,
+            "countryCode": "CR",
+            "countryThreeLtr": "CRI",
+            "countryName": "Costa Rica",
+            "isdCode": "506",
+            "currencyCode": "USD",
+            "nationality": "Costa Rican",
+            "nationalityCode": "CR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 188,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TD": {
+            "active": true,
+            "countryCode": "TD",
+            "countryThreeLtr": "TCD",
+            "countryName": "Chad",
+            "isdCode": "235",
+            "currencyCode": "USD",
+            "nationality": "Chadian",
+            "nationalityCode": "TD",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 148,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CU": {
+            "active": true,
+            "countryCode": "CU",
+            "countryThreeLtr": "CUB",
+            "countryName": "Cuba",
+            "isdCode": "53",
+            "currencyCode": "USD",
+            "nationality": "Cuban",
+            "nationalityCode": "CU",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 192,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TG": {
+            "active": true,
+            "countryCode": "TG",
+            "countryThreeLtr": "TGO",
+            "countryName": "Togo",
+            "isdCode": "228",
+            "currencyCode": "USD",
+            "nationality": "Togolese",
+            "nationalityCode": "TG",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CV": {
+            "active": true,
+            "countryCode": "CV",
+            "countryThreeLtr": "CPV",
+            "countryName": "Cape Verde",
+            "isdCode": "238",
+            "currencyCode": "USD",
+            "nationality": "Cape Verdean",
+            "nationalityCode": "CV",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 132,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TH": {
+            "active": true,
+            "countryCode": "TH",
+            "countryThreeLtr": "THA",
+            "countryName": "Thailand",
+            "isdCode": "66",
+            "currencyCode": "THB",
+            "nationality": "Thai",
+            "nationalityCode": "TH",
+            "numericCountryCode": 35,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CW": {
+            "active": true,
+            "countryCode": "CW",
+            "countryThreeLtr": "CUW",
+            "countryName": "Curacao",
+            "isdCode": "599",
+            "currencyCode": "USD",
+            "nationality": "Curacao",
+            "nationalityCode": "CW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 531,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CX": {
+            "active": true,
+            "countryCode": "CX",
+            "countryThreeLtr": "CXR",
+            "countryName": "Christmas Island",
+            "isdCode": "61",
+            "currencyCode": "USD",
+            "nationality": "Christmas Islander",
+            "nationalityCode": "CX",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 162,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CY": {
+            "active": true,
+            "countryCode": "CY",
+            "countryThreeLtr": "CYP",
+            "countryName": "Cyprus",
+            "isdCode": "357",
+            "currencyCode": "EUR",
+            "nationality": "Cypriot",
+            "nationalityCode": "CY",
+            "numericCountryCode": 46,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TJ": {
+            "active": true,
+            "countryCode": "TJ",
+            "countryThreeLtr": "TJK",
+            "countryName": "Tajikistan",
+            "isdCode": "992",
+            "currencyCode": "EUR",
+            "nationality": "Tajik",
+            "nationalityCode": "TJ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 762,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "CZ": {
+            "active": true,
+            "countryCode": "CZ",
+            "countryThreeLtr": "CZE",
+            "countryName": "Czech Republic",
+            "isdCode": "420",
+            "currencyCode": "CZK",
+            "nationality": "Czech",
+            "nationalityCode": "CZ",
+            "numericCountryCode": 101,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TL": {
+            "active": true,
+            "countryCode": "TL",
+            "countryThreeLtr": "TLS",
+            "countryName": "Timor-Leste/East Timor",
+            "isdCode": "670",
+            "currencyCode": "USD",
+            "nationality": "East Timorese",
+            "nationalityCode": "TL",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TM": {
+            "active": true,
+            "countryCode": "TM",
+            "countryThreeLtr": "TKM",
+            "countryName": "Turkmenistan",
+            "isdCode": "993",
+            "currencyCode": "TMM",
+            "nationality": "Turkmen",
+            "nationalityCode": "TM",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TN": {
+            "active": true,
+            "countryCode": "TN",
+            "countryThreeLtr": "TUN",
+            "countryName": "Tunisia",
+            "isdCode": "216",
+            "currencyCode": "TND",
+            "nationality": "Tunis",
+            "nationalityCode": "TN",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NAFR",
+                "regionName": "N Africa",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TO": {
+            "active": true,
+            "countryCode": "TO",
+            "countryThreeLtr": "TON",
+            "countryName": "Tonga",
+            "isdCode": "676",
+            "currencyCode": "NZD",
+            "nationality": "Tongan",
+            "nationalityCode": "TO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 776,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TR": {
+            "active": true,
+            "countryCode": "TR",
+            "countryThreeLtr": "TUR",
+            "countryName": "Turkey",
+            "isdCode": "90",
+            "currencyCode": "USD",
+            "nationality": "Turkish",
+            "nationalityCode": "TR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 10,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TT": {
+            "active": true,
+            "countryCode": "TT",
+            "countryThreeLtr": "TTO",
+            "countryName": "Trinidad and Tobago",
+            "isdCode": "1-868 ",
+            "currencyCode": "USD",
+            "nationality": "Trinidadian",
+            "nationalityCode": "TTO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 780,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DE": {
+            "active": true,
+            "countryCode": "DE",
+            "countryThreeLtr": "DEU",
+            "countryName": "Germany",
+            "isdCode": "49",
+            "currencyCode": "EUR",
+            "nationality": "German",
+            "nationalityCode": "DE",
+            "numericCountryCode": 23,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TV": {
+            "active": true,
+            "countryCode": "TV",
+            "countryThreeLtr": "TUV",
+            "countryName": "Tuvalu",
+            "isdCode": "688",
+            "currencyCode": "AUD",
+            "nationality": "Tuvaluan",
+            "nationalityCode": "TV",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TW": {
+            "active": true,
+            "countryCode": "TW",
+            "countryThreeLtr": "TWN",
+            "countryName": "Taiwan, China",
+            "isdCode": "886",
+            "currencyCode": "TWD",
+            "nationality": "Taiwan, China",
+            "nationalityCode": "TW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 34,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DJ": {
+            "active": true,
+            "countryCode": "DJ",
+            "countryThreeLtr": "DJI",
+            "countryName": "Djibouti",
+            "isdCode": "253",
+            "currencyCode": "DJF",
+            "nationality": "Djiboutian",
+            "nationalityCode": "DJ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 127,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "TZ": {
+            "active": true,
+            "countryCode": "TZ",
+            "countryThreeLtr": "TZA",
+            "countryName": "Tanzania",
+            "isdCode": "255",
+            "currencyCode": "USD",
+            "nationality": "Tanzanian",
+            "nationalityCode": "TZ",
+            "numericCountryCode": 21,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DK": {
+            "active": true,
+            "countryCode": "DK",
+            "countryThreeLtr": "DNK",
+            "countryName": "Denmark",
+            "isdCode": "45",
+            "currencyCode": "DKK",
+            "nationality": "Danish",
+            "nationalityCode": "DK",
+            "numericCountryCode": 17,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DM": {
+            "active": true,
+            "countryCode": "DM",
+            "countryThreeLtr": "DMA",
+            "countryName": "Dominica",
+            "isdCode": "1767",
+            "currencyCode": "XCD",
+            "nationality": "Dominican",
+            "nationalityCode": "DM",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DO": {
+            "active": true,
+            "countryCode": "DO",
+            "countryThreeLtr": "DOM",
+            "countryName": "Dominican Republic",
+            "isdCode": "767",
+            "currencyCode": "USD",
+            "nationality": "Dominican",
+            "nationalityCode": "DO",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 214,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "UA": {
+            "active": true,
+            "countryCode": "UA",
+            "countryThreeLtr": "UKR",
+            "countryName": "Ukraine",
+            "isdCode": "380",
+            "currencyCode": "UAH",
+            "nationality": "Ukrainian",
+            "nationalityCode": "UA",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 118,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "UG": {
+            "active": true,
+            "countryCode": "UG",
+            "countryThreeLtr": "UGA",
+            "countryName": "Uganda",
+            "isdCode": "256",
+            "currencyCode": "USD",
+            "nationality": "Ugandan",
+            "nationalityCode": "UG",
+            "numericCountryCode": 88,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "DZ": {
+            "active": true,
+            "countryCode": "DZ",
+            "countryThreeLtr": "DZA",
+            "countryName": "Algeria",
+            "isdCode": "213",
+            "currencyCode": "DZD",
+            "nationality": "Algerian",
+            "nationalityCode": "DZ",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NAFR",
+                "regionName": "N Africa",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "EC": {
+            "active": true,
+            "countryCode": "EC",
+            "countryThreeLtr": "ECU",
+            "countryName": "Ecuador",
+            "isdCode": "593",
+            "currencyCode": "USD",
+            "nationality": "Ecuadorian",
+            "nationalityCode": "EC",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "US": {
+            "active": true,
+            "countryCode": "US",
+            "countryThreeLtr": "USA",
+            "countryName": "United States of America",
+            "isdCode": "1",
+            "currencyCode": "USD",
+            "nationality": "American",
+            "nationalityCode": "US",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 52,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [
+                {
+                    "active": true,
+                    "stateCode": "AK",
+                    "stateName": "Alaska"
+                },
+                {
+                    "active": true,
+                    "stateCode": "AZ",
+                    "stateName": "Arizona"
+                },
+                {
+                    "active": true,
+                    "stateCode": "AR",
+                    "stateName": "Arkansas"
+                },
+                {
+                    "active": true,
+                    "stateCode": "CA",
+                    "stateName": "California"
+                },
+                {
+                    "active": true,
+                    "stateCode": "CO",
+                    "stateName": "Colorado"
+                },
+                {
+                    "active": true,
+                    "stateCode": "CT",
+                    "stateName": "Connecticut"
+                },
+                {
+                    "active": true,
+                    "stateCode": "DE",
+                    "stateName": "Delaware"
+                },
+                {
+                    "active": true,
+                    "stateCode": "DC",
+                    "stateName": "District of Columbia"
+                },
+                {
+                    "active": true,
+                    "stateCode": "FL",
+                    "stateName": "Florida"
+                },
+                {
+                    "active": true,
+                    "stateCode": "GA",
+                    "stateName": "Georgia"
+                },
+                {
+                    "active": true,
+                    "stateCode": "HI",
+                    "stateName": "Hawaii"
+                },
+                {
+                    "active": true,
+                    "stateCode": "ID",
+                    "stateName": "Idaho"
+                },
+                {
+                    "active": true,
+                    "stateCode": "IN",
+                    "stateName": "Indiana"
+                },
+                {
+                    "active": true,
+                    "stateCode": "IA",
+                    "stateName": "Iowa"
+                },
+                {
+                    "active": true,
+                    "stateCode": "KS",
+                    "stateName": "Kansas"
+                },
+                {
+                    "active": true,
+                    "stateCode": "KY",
+                    "stateName": "Kentucky"
+                },
+                {
+                    "active": true,
+                    "stateCode": "LA",
+                    "stateName": "Louisiana"
+                },
+                {
+                    "active": true,
+                    "stateCode": "ME",
+                    "stateName": "Maine"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MD",
+                    "stateName": "Maryland"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MA",
+                    "stateName": "Massachusetts"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MI",
+                    "stateName": "Michigan"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MN",
+                    "stateName": "Minnesota"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MS",
+                    "stateName": "Mississippi"
+                },
+                {
+                    "active": true,
+                    "stateCode": "IL",
+                    "stateName": "Illinois"
+                },
+                {
+                    "active": true,
+                    "stateCode": "AL",
+                    "stateName": "Alabama"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MO",
+                    "stateName": "Missouri"
+                },
+                {
+                    "active": true,
+                    "stateCode": "MT",
+                    "stateName": "Montana"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NE",
+                    "stateName": "Nebraska"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NV",
+                    "stateName": "Nevada"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NH",
+                    "stateName": "New Hampshire"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NJ",
+                    "stateName": "New Jersey"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NM",
+                    "stateName": "New Mexico"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NY",
+                    "stateName": "New York"
+                },
+                {
+                    "active": true,
+                    "stateCode": "NC",
+                    "stateName": "North Carolina"
+                },
+                {
+                    "active": true,
+                    "stateCode": "ND",
+                    "stateName": "North Dakota"
+                },
+                {
+                    "active": true,
+                    "stateCode": "OH",
+                    "stateName": "Ohio"
+                },
+                {
+                    "active": true,
+                    "stateCode": "OK",
+                    "stateName": "Oklahoma"
+                },
+                {
+                    "active": true,
+                    "stateCode": "OR",
+                    "stateName": "Oregon"
+                },
+                {
+                    "active": true,
+                    "stateCode": "PA",
+                    "stateName": "Pennsylvania"
+                },
+                {
+                    "active": true,
+                    "stateCode": "RI",
+                    "stateName": "Rhode Island"
+                },
+                {
+                    "active": true,
+                    "stateCode": "SC",
+                    "stateName": "South Carolina"
+                },
+                {
+                    "active": true,
+                    "stateCode": "SD",
+                    "stateName": "South Dakota"
+                },
+                {
+                    "active": true,
+                    "stateCode": "TN",
+                    "stateName": "Tennessee"
+                },
+                {
+                    "active": true,
+                    "stateCode": "UT",
+                    "stateName": "Utah"
+                },
+                {
+                    "active": true,
+                    "stateCode": "VT",
+                    "stateName": "Vermont"
+                },
+                {
+                    "active": true,
+                    "stateCode": "VA",
+                    "stateName": "Virginia"
+                },
+                {
+                    "active": true,
+                    "stateCode": "WA",
+                    "stateName": "Washington"
+                },
+                {
+                    "active": true,
+                    "stateCode": "WV",
+                    "stateName": "West Virginia"
+                },
+                {
+                    "active": true,
+                    "stateCode": "WI",
+                    "stateName": "Wisconsin"
+                },
+                {
+                    "active": true,
+                    "stateCode": "WY",
+                    "stateName": "Wyoming"
+                },
+                {
+                    "active": true,
+                    "stateCode": "TX",
+                    "stateName": "Texas"
+                }
+            ],
+            "citiesVO": []
+        },
+        "EE": {
+            "active": true,
+            "countryCode": "EE",
+            "countryThreeLtr": "EST",
+            "countryName": "Estonia",
+            "isdCode": "372",
+            "currencyCode": "EUR",
+            "nationality": "Estonian",
+            "nationalityCode": "EE",
+            "numericCountryCode": 120,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "EG": {
+            "active": true,
+            "countryCode": "EG",
+            "countryThreeLtr": "EGY",
+            "countryName": "Egypt",
+            "isdCode": "20",
+            "currencyCode": "EGP",
+            "nationality": "Egyptian",
+            "nationalityCode": "EG",
+            "numericCountryCode": 9,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NAFR",
+                "regionName": "N Africa",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "UY": {
+            "active": true,
+            "countryCode": "UY",
+            "countryThreeLtr": "URY",
+            "countryName": "Uruguay",
+            "isdCode": "598",
+            "currencyCode": "USD",
+            "nationality": "Uruguayan",
+            "nationalityCode": "UY",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 858,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "UZ": {
+            "active": true,
+            "countryCode": "UZ",
+            "countryThreeLtr": "UZB",
+            "countryName": "Uzbekistan",
+            "isdCode": "998",
+            "currencyCode": "UZS",
+            "nationality": "Uzbek",
+            "nationalityCode": "UZ",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VA": {
+            "active": true,
+            "countryCode": "VA",
+            "countryThreeLtr": "VAT",
+            "countryName": "Vatican City State",
+            "isdCode": "379",
+            "currencyCode": "EUR",
+            "nationality": "Vatican",
+            "nationalityCode": "VA",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ER": {
+            "active": true,
+            "countryCode": "ER",
+            "countryThreeLtr": "ERI",
+            "countryName": "Eritrea",
+            "isdCode": "291",
+            "currencyCode": "USD",
+            "nationality": "Eritrean",
+            "nationalityCode": "ER",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VC": {
+            "active": true,
+            "countryCode": "VC",
+            "countryThreeLtr": "VCT",
+            "countryName": "St Vincent and the Grenadines",
+            "isdCode": "1-784",
+            "currencyCode": "USD",
+            "nationality": "St Vincent and the Grenadines",
+            "nationalityCode": "VC ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 670,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ES": {
+            "active": true,
+            "countryCode": "ES",
+            "countryThreeLtr": "ESP",
+            "countryName": "Spain",
+            "isdCode": "34",
+            "currencyCode": "EUR",
+            "nationality": "Spanish",
+            "nationalityCode": "ES",
+            "numericCountryCode": 74,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VE": {
+            "active": true,
+            "countryCode": "VE",
+            "countryThreeLtr": "VEN",
+            "countryName": "Venezuela",
+            "isdCode": "58",
+            "currencyCode": "USD",
+            "nationality": "Venezuelan",
+            "nationalityCode": "VE",
+            "numericCountryCode": 95,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ET": {
+            "active": true,
+            "countryCode": "ET",
+            "countryThreeLtr": "ETH",
+            "countryName": "Ethiopia",
+            "isdCode": "251",
+            "currencyCode": "ETB",
+            "nationality": "Ethiopian",
+            "nationalityCode": "ET",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VG": {
+            "active": true,
+            "countryCode": "VG",
+            "countryThreeLtr": "VGB",
+            "countryName": "British Virgin Islands",
+            "isdCode": "284",
+            "currencyCode": "USD",
+            "nationality": "British Virgin Islander",
+            "nationalityCode": "VG",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VI": {
+            "active": true,
+            "countryCode": "VI",
+            "countryThreeLtr": "VIR",
+            "countryName": "US Virgin Islands",
+            "isdCode": "1-340",
+            "currencyCode": "USD",
+            "nationality": "US Virgin Islands",
+            "nationalityCode": "VI",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 850,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VN": {
+            "active": true,
+            "countryCode": "VN",
+            "countryThreeLtr": "VNM",
+            "countryName": "Vietnam",
+            "isdCode": "84",
+            "currencyCode": "USD",
+            "nationality": "Vietnamese",
+            "nationalityCode": "VN",
+            "numericCountryCode": 30,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "VU": {
+            "active": true,
+            "countryCode": "VU",
+            "countryThreeLtr": "VUT",
+            "countryName": "Vanuatu",
+            "isdCode": "678",
+            "currencyCode": "VUV",
+            "nationality": "Vanuatuan",
+            "nationalityCode": "VU",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FI": {
+            "active": true,
+            "countryCode": "FI",
+            "countryThreeLtr": "FIN",
+            "countryName": "Finland",
+            "isdCode": "358",
+            "currencyCode": "EUR",
+            "nationality": "Finnish",
+            "nationalityCode": "FI",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 246,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FJ": {
+            "active": true,
+            "countryCode": "FJ",
+            "countryThreeLtr": "FJI",
+            "countryName": "Fiji",
+            "isdCode": "679",
+            "currencyCode": "NZD",
+            "nationality": "Fijian",
+            "nationalityCode": "FJ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 242,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FK": {
+            "active": true,
+            "countryCode": "FK",
+            "countryThreeLtr": "FLK",
+            "countryName": "Falkland Islands",
+            "isdCode": "500",
+            "currencyCode": "USD",
+            "nationality": "Falkland Islands",
+            "nationalityCode": "FK",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 238,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FM": {
+            "active": true,
+            "countryCode": "FM",
+            "countryThreeLtr": "FSM",
+            "countryName": "Micronesia",
+            "isdCode": "691",
+            "currencyCode": "USD",
+            "nationality": "Micronesian",
+            "nationalityCode": "FM",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FO": {
+            "active": true,
+            "countryCode": "FO",
+            "countryThreeLtr": "FRO",
+            "countryName": "Faroe Islands",
+            "isdCode": "298",
+            "currencyCode": "DKK",
+            "nationality": "Faroese",
+            "nationalityCode": "FO",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "FR": {
+            "active": true,
+            "countryCode": "FR",
+            "countryThreeLtr": "FRA",
+            "countryName": "France",
+            "isdCode": "33",
+            "currencyCode": "EUR",
+            "nationality": "French",
+            "nationalityCode": "FR",
+            "numericCountryCode": 20,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "WF": {
+            "active": true,
+            "countryCode": "WF",
+            "countryThreeLtr": "WLF",
+            "countryName": "Wallis and Futuna Islands",
+            "isdCode": "681",
+            "currencyCode": "XPF",
+            "nationality": "Wallisian/Futunan",
+            "nationalityCode": "WF",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GA": {
+            "active": true,
+            "countryCode": "GA",
+            "countryThreeLtr": "GAB",
+            "countryName": "Gabon",
+            "isdCode": "241",
+            "currencyCode": "USD",
+            "nationality": "Gabonese",
+            "nationalityCode": "GA",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 266,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GB": {
+            "active": true,
+            "countryCode": "GB",
+            "countryThreeLtr": "GBR",
+            "countryName": "United Kingdom",
+            "isdCode": "44",
+            "currencyCode": "GBP",
+            "nationality": "British",
+            "nationalityCode": "GB",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 14,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "WS": {
+            "active": true,
+            "countryCode": "WS",
+            "countryThreeLtr": "WSM",
+            "countryName": "Samoa",
+            "isdCode": "212",
+            "currencyCode": "NZD",
+            "nationality": "Western Samoan",
+            "nationalityCode": "WSE",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 882,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GD": {
+            "active": true,
+            "countryCode": "GD",
+            "countryThreeLtr": "GRD",
+            "countryName": "Grenada",
+            "isdCode": "473",
+            "currencyCode": "USD",
+            "nationality": "Grenadian",
+            "nationalityCode": "GD",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 308,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GE": {
+            "active": true,
+            "countryCode": "GE",
+            "countryThreeLtr": "GEO",
+            "countryName": "Georgia",
+            "isdCode": "995",
+            "currencyCode": "GEL",
+            "nationality": "Georgian",
+            "nationalityCode": "GE",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GF": {
+            "active": true,
+            "countryCode": "GF",
+            "countryThreeLtr": "GUF",
+            "countryName": "French Guiana",
+            "isdCode": "594",
+            "currencyCode": "USD",
+            "nationality": "French Guiana",
+            "nationalityCode": "GF ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 254,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GH": {
+            "active": true,
+            "countryCode": "GH",
+            "countryThreeLtr": "GHA",
+            "countryName": "Ghana",
+            "isdCode": "233",
+            "currencyCode": "USD",
+            "nationality": "Ghanaian",
+            "nationalityCode": "GH",
+            "numericCountryCode": 87,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GI": {
+            "active": true,
+            "countryCode": "GI",
+            "countryThreeLtr": "GIB",
+            "countryName": "Gibraltar",
+            "isdCode": "350",
+            "currencyCode": "GIP",
+            "nationality": "Gibraltarian",
+            "nationalityCode": "GI",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GL": {
+            "active": true,
+            "countryCode": "GL",
+            "countryThreeLtr": "GRL",
+            "countryName": "Greenland",
+            "isdCode": "299",
+            "currencyCode": "DKK",
+            "nationality": "Greenlander",
+            "nationalityCode": "GL",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GM": {
+            "active": true,
+            "countryCode": "GM",
+            "countryThreeLtr": "GMB",
+            "countryName": "Gambia",
+            "isdCode": "220",
+            "currencyCode": "USD",
+            "nationality": "Gambian",
+            "nationalityCode": "GM",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 270,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GN": {
+            "active": true,
+            "countryCode": "GN",
+            "countryThreeLtr": "GIN",
+            "countryName": "Guinea",
+            "isdCode": "224",
+            "currencyCode": "GNS",
+            "nationality": "Guinean",
+            "nationalityCode": "GN",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GP": {
+            "active": true,
+            "countryCode": "GP",
+            "countryThreeLtr": "GLP",
+            "countryName": "Guadeloupe",
+            "isdCode": "590",
+            "currencyCode": "USD",
+            "nationality": "Guadeloupe",
+            "nationalityCode": "GP",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 312,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GQ": {
+            "active": true,
+            "countryCode": "GQ",
+            "countryThreeLtr": "GNQ",
+            "countryName": "Equatorial Guinea",
+            "isdCode": "240",
+            "currencyCode": "USD",
+            "nationality": "Equatorial Guinean / Equatoguinean",
+            "nationalityCode": "GQ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 226,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GR": {
+            "active": true,
+            "countryCode": "GR",
+            "countryThreeLtr": "GRC",
+            "countryName": "Greece",
+            "isdCode": "30",
+            "currencyCode": "EUR",
+            "nationality": "Greek",
+            "nationalityCode": "GR",
+            "numericCountryCode": 117,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GT": {
+            "active": true,
+            "countryCode": "GT",
+            "countryThreeLtr": "GTM",
+            "countryName": "Guatemala",
+            "isdCode": "502",
+            "currencyCode": "USD",
+            "nationality": "Guatemalan",
+            "nationalityCode": "GT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 113,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GU": {
+            "active": true,
+            "countryCode": "GU",
+            "countryThreeLtr": "GUM",
+            "countryName": "Guam",
+            "isdCode": "670",
+            "currencyCode": "USD",
+            "nationality": "Guamanian",
+            "nationalityCode": "GU",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GW": {
+            "active": true,
+            "countryCode": "GW",
+            "countryThreeLtr": "GNB",
+            "countryName": "Guinea-Bissau",
+            "isdCode": "245",
+            "currencyCode": "USD",
+            "nationality": "Guinea-Bissau national",
+            "nationalityCode": "GW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 624,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "GY": {
+            "active": true,
+            "countryCode": "GY",
+            "countryThreeLtr": "GUY",
+            "countryName": "Guyana",
+            "isdCode": "592",
+            "currencyCode": "GYD",
+            "nationality": "Guyanese",
+            "nationalityCode": "GY",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "HK": {
+            "active": true,
+            "countryCode": "HK",
+            "countryThreeLtr": "HKG",
+            "countryName": "Hong Kong, China",
+            "isdCode": "852",
+            "currencyCode": "HKD",
+            "nationality": "Hong Kong, China",
+            "nationalityCode": "HK",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 13,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "HN": {
+            "active": true,
+            "countryCode": "HN",
+            "countryThreeLtr": "HND",
+            "countryName": "Honduras",
+            "isdCode": "504",
+            "currencyCode": "USD",
+            "nationality": "Honduran",
+            "nationalityCode": "HN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 340,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "HR": {
+            "active": true,
+            "countryCode": "HR",
+            "countryThreeLtr": "HRV",
+            "countryName": "Croatia",
+            "isdCode": "385",
+            "currencyCode": "HRK",
+            "nationality": "Croatia",
+            "nationalityCode": "HR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 191,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "HT": {
+            "active": true,
+            "countryCode": "HT",
+            "countryThreeLtr": "HTI",
+            "countryName": "Haiti",
+            "isdCode": "509",
+            "currencyCode": "USD",
+            "nationality": "Haitian",
+            "nationalityCode": "HT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 332,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "YE": {
+            "active": true,
+            "countryCode": "YE",
+            "countryThreeLtr": "YEM",
+            "countryName": "Yemen",
+            "isdCode": "967",
+            "currencyCode": "YER",
+            "nationality": "Yemeni",
+            "nationalityCode": "YE",
+            "numericCountryCode": 111,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "HU": {
+            "active": true,
+            "countryCode": "HU",
+            "countryThreeLtr": "HUN",
+            "countryName": "Hungary",
+            "isdCode": "36",
+            "currencyCode": "HUF",
+            "nationality": "Hungarian",
+            "nationalityCode": "HU",
+            "numericCountryCode": 115,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ID": {
+            "active": true,
+            "countryCode": "ID",
+            "countryThreeLtr": "IDN",
+            "countryName": "Indonesia",
+            "isdCode": "62",
+            "currencyCode": "IDR",
+            "nationality": "Indonesian",
+            "nationalityCode": "ID",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 15,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "YT": {
+            "active": true,
+            "countryCode": "YT",
+            "countryThreeLtr": "MYT",
+            "countryName": "Mayotte",
+            "isdCode": "262",
+            "currencyCode": "USD",
+            "nationality": "Mayotte",
+            "nationalityCode": "YT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 175,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IE": {
+            "active": true,
+            "countryCode": "IE",
+            "countryThreeLtr": "IRL",
+            "countryName": "Ireland",
+            "isdCode": "353",
+            "currencyCode": "EUR",
+            "nationality": "Irish",
+            "nationalityCode": "IE",
+            "numericCountryCode": 8,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IL": {
+            "active": false,
+            "countryCode": "IL",
+            "countryThreeLtr": "ISR",
+            "countryName": "Israel",
+            "isdCode": "972",
+            "currencyCode": "USD",
+            "nationality": "Israeli",
+            "nationalityCode": "IL",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 12,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IN": {
+            "active": true,
+            "countryCode": "IN",
+            "countryThreeLtr": "IND",
+            "countryName": "India",
+            "isdCode": "91",
+            "currencyCode": "INR",
+            "nationality": "Indian",
+            "nationalityCode": "IN",
+            "numericCountryCode": 4,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ZA": {
+            "active": true,
+            "countryCode": "ZA",
+            "countryThreeLtr": "ZAF",
+            "countryName": "South Africa",
+            "isdCode": "27",
+            "currencyCode": "ZAR",
+            "nationality": "South African",
+            "nationalityCode": "ZA",
+            "numericCountryCode": 77,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IQ": {
+            "active": true,
+            "countryCode": "IQ",
+            "countryThreeLtr": "IRQ",
+            "countryName": "Iraq",
+            "isdCode": "964",
+            "currencyCode": "USD",
+            "nationality": "Iraq",
+            "nationalityCode": "IRQ",
+            "firstDayInWeek": 0,
+            "numericCountryCode": 368,
+            "regionVO": {
+                "active": true,
+                "regionCode": "LENA",
+                "regionName": "Levant",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IR": {
+            "active": true,
+            "countryCode": "IR",
+            "countryThreeLtr": "IRN",
+            "countryName": "Iran",
+            "isdCode": "98",
+            "currencyCode": "IRR",
+            "nationality": "Iranian",
+            "nationalityCode": "IR",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "IR",
+                "regionName": "IRAN",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IS": {
+            "active": true,
+            "countryCode": "IS",
+            "countryThreeLtr": "ISL",
+            "countryName": "Iceland",
+            "isdCode": "354",
+            "currencyCode": "EUR",
+            "nationality": "Icelander",
+            "nationalityCode": "IS",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "IT": {
+            "active": true,
+            "countryCode": "IT",
+            "countryThreeLtr": "ITA",
+            "countryName": "Italy",
+            "isdCode": "39",
+            "currencyCode": "EUR",
+            "nationality": "Italian",
+            "nationalityCode": "IT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 38,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ZM": {
+            "active": true,
+            "countryCode": "ZM",
+            "countryThreeLtr": "ZMB",
+            "countryName": "Zambia",
+            "isdCode": "260",
+            "currencyCode": "USD",
+            "nationality": "Zambian",
+            "nationalityCode": "ZM",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 89,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ZW": {
+            "active": true,
+            "countryCode": "ZW",
+            "countryThreeLtr": "ZWE",
+            "countryName": "Zimbabwe",
+            "isdCode": "263",
+            "currencyCode": "USD",
+            "nationality": "Zimbabwean",
+            "nationalityCode": "ZW",
+            "numericCountryCode": 92,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "JM": {
+            "active": true,
+            "countryCode": "JM",
+            "countryThreeLtr": "JAM",
+            "countryName": "Jamaica",
+            "isdCode": "1876",
+            "currencyCode": "USD",
+            "nationality": "Jamaican",
+            "nationalityCode": "JM",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 388,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "JO": {
+            "active": true,
+            "countryCode": "JO",
+            "countryThreeLtr": "JOR",
+            "countryName": "Jordan",
+            "isdCode": "962",
+            "currencyCode": "JOD",
+            "nationality": "Jordanian",
+            "nationalityCode": "JO",
+            "firstDayInWeek": 0,
+            "numericCountryCode": 400,
+            "regionVO": {
+                "active": true,
+                "regionCode": "LENA",
+                "regionName": "Levant",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "JP": {
+            "active": true,
+            "countryCode": "JP",
+            "countryThreeLtr": "JPN",
+            "countryName": "Japan",
+            "isdCode": "81",
+            "currencyCode": "JPY",
+            "nationality": "Japanese",
+            "nationalityCode": "JP",
+            "numericCountryCode": 16,
+            "regionVO": {
+                "active": true,
+                "regionCode": "JP",
+                "regionName": "JAPAN",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KE": {
+            "active": true,
+            "countryCode": "KE",
+            "countryThreeLtr": "KEN",
+            "countryName": "Kenya",
+            "isdCode": "254",
+            "currencyCode": "USD",
+            "nationality": "Kenyan",
+            "nationalityCode": "KE",
+            "numericCountryCode": 90,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KG": {
+            "active": true,
+            "countryCode": "KG",
+            "countryThreeLtr": "KGZ",
+            "countryName": "Kyrgyz Republic",
+            "isdCode": "996",
+            "currencyCode": "EUR",
+            "nationality": "Kyrgyz",
+            "nationalityCode": "KG",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 417,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KH": {
+            "active": true,
+            "countryCode": "KH",
+            "countryThreeLtr": "KHM",
+            "countryName": "Cambodia",
+            "isdCode": "855",
+            "currencyCode": "USD",
+            "nationality": "Cambodian",
+            "nationalityCode": "KH",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KI": {
+            "active": true,
+            "countryCode": "KI",
+            "countryThreeLtr": "KIR",
+            "countryName": "Kiribati",
+            "isdCode": "686",
+            "currencyCode": "AUD",
+            "nationality": "Kiribatian",
+            "nationalityCode": "KI",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KM": {
+            "active": true,
+            "countryCode": "KM",
+            "countryThreeLtr": "COM",
+            "countryName": "Comoros",
+            "isdCode": "269",
+            "currencyCode": "USD",
+            "nationality": "Comoran",
+            "nationalityCode": "KM",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KN": {
+            "active": true,
+            "countryCode": "KN",
+            "countryThreeLtr": "KNA",
+            "countryName": "Saint Kitts and Nevis",
+            "isdCode": "1869",
+            "currencyCode": "USD",
+            "nationality": "Kittitian / Nevisian",
+            "nationalityCode": "KN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 659,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KP": {
+            "active": true,
+            "countryCode": "KP",
+            "countryThreeLtr": "PRK",
+            "countryName": "North Korean",
+            "isdCode": "850",
+            "currencyCode": "USD",
+            "nationality": "North Korean",
+            "nationalityCode": "KP",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 408,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KR": {
+            "active": true,
+            "countryCode": "KR",
+            "countryThreeLtr": "KOR",
+            "countryName": "South Korea",
+            "isdCode": "82",
+            "currencyCode": "KRW",
+            "nationality": "Korean",
+            "nationalityCode": "KOR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 410,
+            "regionVO": {
+                "active": true,
+                "regionCode": "KR",
+                "regionName": "KOREA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KW": {
+            "active": true,
+            "countryCode": "KW",
+            "countryThreeLtr": "KWT",
+            "countryName": "Kuwait",
+            "isdCode": "965",
+            "currencyCode": "KWD",
+            "nationality": "Kuwaiti",
+            "nationalityCode": "KW",
+            "numericCountryCode": 43,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KY": {
+            "active": true,
+            "countryCode": "KY",
+            "countryThreeLtr": "CYM",
+            "countryName": "Cayman Islands",
+            "isdCode": "345",
+            "currencyCode": "USD",
+            "nationality": "Caymanian",
+            "nationalityCode": "KY",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 136,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "KZ": {
+            "active": true,
+            "countryCode": "KZ",
+            "countryThreeLtr": "KAZ",
+            "countryName": "Kazakhstan",
+            "isdCode": "7",
+            "currencyCode": "EUR",
+            "nationality": "Kazakh",
+            "nationalityCode": "KZ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 106,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LA": {
+            "active": true,
+            "countryCode": "LA",
+            "countryThreeLtr": "LAO",
+            "countryName": "Laos",
+            "isdCode": "856",
+            "currencyCode": "USD",
+            "nationality": "Lao",
+            "nationalityCode": "LA",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 418,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LB": {
+            "active": true,
+            "countryCode": "LB",
+            "countryThreeLtr": "LBN",
+            "countryName": "Lebanon",
+            "isdCode": "961",
+            "currencyCode": "USD",
+            "nationality": "Lebanese",
+            "nationalityCode": "LB",
+            "numericCountryCode": 45,
+            "regionVO": {
+                "active": true,
+                "regionCode": "LENA",
+                "regionName": "Levant",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LC": {
+            "active": true,
+            "countryCode": "LC",
+            "countryThreeLtr": "LCA",
+            "countryName": "St Lucia",
+            "isdCode": "1-758",
+            "currencyCode": "USD",
+            "nationality": "St Lucia",
+            "nationalityCode": "LC",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 662,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LI": {
+            "active": true,
+            "countryCode": "LI",
+            "countryThreeLtr": "LIE",
+            "countryName": "Liechtenstein",
+            "isdCode": "423",
+            "currencyCode": "CHF",
+            "nationality": "Liechtenstein",
+            "nationalityCode": "LI",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LK": {
+            "active": true,
+            "countryCode": "LK",
+            "countryThreeLtr": "LKA",
+            "countryName": "Sri Lanka",
+            "isdCode": "94",
+            "currencyCode": "LKR",
+            "nationality": "Sri Lankan",
+            "nationalityCode": "LKA",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 12,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LR": {
+            "active": true,
+            "countryCode": "LR",
+            "countryThreeLtr": "LBR",
+            "countryName": "Liberia",
+            "isdCode": "231",
+            "currencyCode": "USD",
+            "nationality": "Liberian",
+            "nationalityCode": "LR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 430,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LS": {
+            "active": true,
+            "countryCode": "LS",
+            "countryThreeLtr": "LSO",
+            "countryName": "Lesotho",
+            "isdCode": "266",
+            "currencyCode": "USD",
+            "nationality": "Mosotho",
+            "nationalityCode": "LS",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 426,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LT": {
+            "active": true,
+            "countryCode": "LT",
+            "countryThreeLtr": "LTU",
+            "countryName": "Lithuania",
+            "isdCode": "370",
+            "currencyCode": "EUR",
+            "nationality": "Lithuanian",
+            "nationalityCode": "LT",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 124,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LU": {
+            "active": true,
+            "countryCode": "LU",
+            "countryThreeLtr": "LUX",
+            "countryName": "Luxembourg ",
+            "isdCode": "352",
+            "currencyCode": "EUR",
+            "nationality": "Luxembourgeoi",
+            "nationalityCode": "LUX",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 442,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LV": {
+            "active": true,
+            "countryCode": "LV",
+            "countryThreeLtr": "LVA",
+            "countryName": "Latvia",
+            "isdCode": "371",
+            "currencyCode": "EUR",
+            "nationality": "Latvian",
+            "nationalityCode": "LV",
+            "numericCountryCode": 122,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "LY": {
+            "active": true,
+            "countryCode": "LY",
+            "countryThreeLtr": "LBY",
+            "countryName": "Libya",
+            "isdCode": "218 ",
+            "currencyCode": "USD",
+            "nationality": "Libyan",
+            "nationalityCode": "LBY",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 434,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MA": {
+            "active": true,
+            "countryCode": "MA",
+            "countryThreeLtr": "MAR",
+            "countryName": "Morocco",
+            "isdCode": "212",
+            "currencyCode": "MAD",
+            "nationality": "Moroccan",
+            "nationalityCode": "MA",
+            "numericCountryCode": 121,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NAFR",
+                "regionName": "N Africa",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MC": {
+            "active": false,
+            "countryCode": "MC",
+            "countryThreeLtr": "MCO",
+            "countryName": "Monaco",
+            "isdCode": "377",
+            "currencyCode": "EUR",
+            "nationality": "Monegasque",
+            "nationalityCode": "MC",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 12,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MD": {
+            "active": true,
+            "countryCode": "MD",
+            "countryThreeLtr": "MDA",
+            "countryName": "Moldova",
+            "isdCode": "373",
+            "currencyCode": "EUR",
+            "nationality": "Moldovan",
+            "nationalityCode": "MD",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 498,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ME": {
+            "active": true,
+            "countryCode": "ME",
+            "countryThreeLtr": "MNE",
+            "countryName": "Montenegro",
+            "isdCode": "382",
+            "currencyCode": "EUR",
+            "nationality": "Montenegrin",
+            "nationalityCode": "ME",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MG": {
+            "active": true,
+            "countryCode": "MG",
+            "countryThreeLtr": "MDG",
+            "countryName": "Madagascar",
+            "isdCode": "261",
+            "currencyCode": "USD",
+            "nationality": "Malagasy",
+            "nationalityCode": "MG",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 450,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MH": {
+            "active": true,
+            "countryCode": "MH",
+            "countryThreeLtr": "MHL",
+            "countryName": "Marshall Islands",
+            "isdCode": "692",
+            "currencyCode": "USD",
+            "nationality": "Marshallese",
+            "nationalityCode": "MH",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MK": {
+            "active": true,
+            "countryCode": "MK",
+            "countryThreeLtr": "MKD",
+            "countryName": "North Macedonia",
+            "isdCode": "389",
+            "currencyCode": "EUR",
+            "nationality": "Macedonian",
+            "nationalityCode": "MK",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 807,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "ML": {
+            "active": true,
+            "countryCode": "ML",
+            "countryThreeLtr": "MLI",
+            "countryName": "Mali",
+            "isdCode": "223",
+            "currencyCode": "USD",
+            "nationality": "Malian",
+            "nationalityCode": "ML",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 466,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MM": {
+            "active": true,
+            "countryCode": "MM",
+            "countryThreeLtr": "MMR",
+            "countryName": "Myanmar",
+            "isdCode": "95",
+            "currencyCode": "USD",
+            "nationality": "Myanmar",
+            "nationalityCode": "MM",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MN": {
+            "active": true,
+            "countryCode": "MN",
+            "countryThreeLtr": "MNG",
+            "countryName": "Mongolia",
+            "isdCode": "976",
+            "currencyCode": "CNY",
+            "nationality": "Mongolian",
+            "nationalityCode": "MN",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 496,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MO": {
+            "active": true,
+            "countryCode": "MO",
+            "countryThreeLtr": "MAC",
+            "countryName": "Macau, China",
+            "isdCode": "853",
+            "currencyCode": "CNY",
+            "nationality": "Macau, China",
+            "nationalityCode": "MAC",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 446,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NASI",
+                "regionName": "NASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MP": {
+            "active": true,
+            "countryCode": "MP",
+            "countryThreeLtr": "MNP",
+            "countryName": "Northern Mariana Islands",
+            "isdCode": "1670",
+            "currencyCode": "USD",
+            "nationality": "Northern Mariana Islander",
+            "nationalityCode": "MP",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MQ": {
+            "active": true,
+            "countryCode": "MQ",
+            "countryThreeLtr": "MTQ",
+            "countryName": "Martinique",
+            "isdCode": "596",
+            "currencyCode": "USD",
+            "nationality": "Martinique",
+            "nationalityCode": "MQ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 474,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MR": {
+            "active": true,
+            "countryCode": "MR",
+            "countryThreeLtr": "MRT",
+            "countryName": "Mauritania",
+            "isdCode": "222",
+            "currencyCode": "MRO",
+            "nationality": "Mauritanian",
+            "nationalityCode": "MR",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 478,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MS": {
+            "active": true,
+            "countryCode": "MS",
+            "countryThreeLtr": "MSR",
+            "countryName": "Montserrat",
+            "isdCode": "664",
+            "currencyCode": "XCD",
+            "nationality": "Montserratian",
+            "nationalityCode": "MS",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MT": {
+            "active": true,
+            "countryCode": "MT",
+            "countryThreeLtr": "MLT",
+            "countryName": "Malta",
+            "isdCode": "356",
+            "currencyCode": "EUR",
+            "nationality": "Maltese",
+            "nationalityCode": "MT",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MU": {
+            "active": true,
+            "countryCode": "MU",
+            "countryThreeLtr": "MUS",
+            "countryName": "Mauritius",
+            "isdCode": "230",
+            "currencyCode": "USD",
+            "nationality": "Mauritian",
+            "nationalityCode": "MU",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 480,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MV": {
+            "active": true,
+            "countryCode": "MV",
+            "countryThreeLtr": "MDV",
+            "countryName": "Maldives",
+            "isdCode": "960",
+            "currencyCode": "USD",
+            "nationality": "Maldivian",
+            "nationalityCode": "MV",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 462,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MW": {
+            "active": true,
+            "countryCode": "MW",
+            "countryThreeLtr": "MWI",
+            "countryName": "Malawi",
+            "isdCode": "265",
+            "currencyCode": "USD",
+            "nationality": "Malawian",
+            "nationalityCode": "MW",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 123,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MX": {
+            "active": true,
+            "countryCode": "MX",
+            "countryThreeLtr": "MEX",
+            "countryName": "Mexico",
+            "isdCode": "52",
+            "currencyCode": "USD",
+            "nationality": "Mexican",
+            "nationalityCode": "MX",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 86,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MY": {
+            "active": true,
+            "countryCode": "MY",
+            "countryThreeLtr": "MYS",
+            "countryName": "Malaysia",
+            "isdCode": "60",
+            "currencyCode": "MYR",
+            "nationality": "Malaysian",
+            "nationalityCode": "MY",
+            "numericCountryCode": 3,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "MZ": {
+            "active": true,
+            "countryCode": "MZ",
+            "countryThreeLtr": "MOZ",
+            "countryName": "Mozambique",
+            "isdCode": "258",
+            "currencyCode": "MZN",
+            "nationality": "Mozambican",
+            "nationalityCode": "MZ",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 97,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NA": {
+            "active": true,
+            "countryCode": "NA",
+            "countryThreeLtr": "NAM",
+            "countryName": "Namibia",
+            "isdCode": "264",
+            "currencyCode": "NAD",
+            "nationality": "Namibian",
+            "nationalityCode": "NA",
+            "numericCountryCode": 5,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NC": {
+            "active": true,
+            "countryCode": "NC",
+            "countryThreeLtr": "NCL",
+            "countryName": "New Caledonia",
+            "isdCode": "687",
+            "currencyCode": "USD",
+            "nationality": "New Caledonian",
+            "nationalityCode": "NC",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 540,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NE": {
+            "active": true,
+            "countryCode": "NE",
+            "countryThreeLtr": "NER",
+            "countryName": "Niger",
+            "isdCode": "227",
+            "currencyCode": "XOF",
+            "nationality": "Nigerien",
+            "nationalityCode": "NE",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NF": {
+            "active": true,
+            "countryCode": "NF",
+            "countryThreeLtr": "NFK",
+            "countryName": "Norfolk Island",
+            "isdCode": "672",
+            "currencyCode": "USD",
+            "nationality": "Norfolk Islander",
+            "nationalityCode": "NF",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 578,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NG": {
+            "active": true,
+            "countryCode": "NG",
+            "countryThreeLtr": "NGA",
+            "countryName": "Nigeria",
+            "isdCode": "234",
+            "currencyCode": "USD",
+            "nationality": "Nigerian",
+            "nationalityCode": "NG",
+            "numericCountryCode": 93,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AFR",
+                "regionName": "AFRICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NI": {
+            "active": true,
+            "countryCode": "NI",
+            "countryThreeLtr": "NIC",
+            "countryName": "Nicaragua",
+            "isdCode": "505",
+            "currencyCode": "NZD",
+            "nationality": "Nicaraguan",
+            "nationalityCode": "NI",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 558,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NL": {
+            "active": true,
+            "countryCode": "NL",
+            "countryThreeLtr": "NLD",
+            "countryName": "Netherlands",
+            "isdCode": "31",
+            "currencyCode": "EUR",
+            "nationality": "Dutch",
+            "nationalityCode": "Dut",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 528,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NO": {
+            "active": true,
+            "countryCode": "NO",
+            "countryThreeLtr": "NOR",
+            "countryName": "Norway",
+            "isdCode": "47",
+            "currencyCode": "NOK",
+            "nationality": "Norwegian",
+            "nationalityCode": "NO",
+            "numericCountryCode": 60,
+            "regionVO": {
+                "active": true,
+                "regionCode": "NSWE",
+                "regionName": "NSWEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NP": {
+            "active": true,
+            "countryCode": "NP",
+            "countryThreeLtr": "NPL",
+            "countryName": "Nepal",
+            "isdCode": "977",
+            "currencyCode": "USD",
+            "nationality": "Nepalese",
+            "nationalityCode": "NP",
+            "numericCountryCode": 107,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NR": {
+            "active": true,
+            "countryCode": "NR",
+            "countryThreeLtr": "NRU",
+            "countryName": "Nauru",
+            "isdCode": "674",
+            "currencyCode": "AUD",
+            "nationality": "Nauruan",
+            "nationalityCode": "NR",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NU": {
+            "active": true,
+            "countryCode": "NU",
+            "countryThreeLtr": "NIU",
+            "countryName": "Niue",
+            "isdCode": "683",
+            "currencyCode": "NZD",
+            "nationality": "Niuean",
+            "nationalityCode": "NU",
+            "numericCountryCode": 0,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "NZ": {
+            "active": true,
+            "countryCode": "NZ",
+            "countryThreeLtr": "NZL",
+            "countryName": "New Zealand",
+            "isdCode": "64",
+            "currencyCode": "NZD",
+            "nationality": "New Zealand",
+            "nationalityCode": "NZ",
+            "numericCountryCode": 24,
+            "regionVO": {
+                "active": true,
+                "regionCode": "AUS",
+                "regionName": "AUSTRALIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "OM": {
+            "active": true,
+            "countryCode": "OM",
+            "countryThreeLtr": "OMN",
+            "countryName": "Oman",
+            "isdCode": "968",
+            "currencyCode": "OMR",
+            "nationality": "Omani",
+            "nationalityCode": "OM",
+            "numericCountryCode": 44,
+            "regionVO": {
+                "active": true,
+                "regionCode": "GCC",
+                "regionName": "GCC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PA": {
+            "active": true,
+            "countryCode": "PA",
+            "countryThreeLtr": "PAN",
+            "countryName": "Panama",
+            "isdCode": "507",
+            "currencyCode": "USD",
+            "nationality": "Panamanian",
+            "nationalityCode": "PA",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 114,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PE": {
+            "active": true,
+            "countryCode": "PE",
+            "countryThreeLtr": "PER",
+            "countryName": "Peru",
+            "isdCode": "51",
+            "currencyCode": "USD",
+            "nationality": "Peruvian",
+            "nationalityCode": "PE",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 91,
+            "regionVO": {
+                "active": true,
+                "regionCode": "USA",
+                "regionName": "AMERICA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PF": {
+            "active": true,
+            "countryCode": "PF",
+            "countryThreeLtr": "PYF",
+            "countryName": "French Polynesia",
+            "isdCode": "689",
+            "currencyCode": "NZD",
+            "nationality": "Polynesian",
+            "nationalityCode": "PF",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 258,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PG": {
+            "active": true,
+            "countryCode": "PG",
+            "countryThreeLtr": "PNG",
+            "countryName": "Papua New Guinea",
+            "isdCode": "675",
+            "currencyCode": "AUD",
+            "nationality": "Papua New Guinean",
+            "nationalityCode": "PG",
+            "firstDayInWeek": -1,
+            "numericCountryCode": 598,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PH": {
+            "active": true,
+            "countryCode": "PH",
+            "countryThreeLtr": "PHL",
+            "countryName": "Philippines",
+            "isdCode": "63",
+            "currencyCode": "USD",
+            "nationality": "Philippine",
+            "nationalityCode": "PH",
+            "numericCountryCode": 29,
+            "regionVO": {
+                "active": true,
+                "regionCode": "SASI",
+                "regionName": "SASIA",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PK": {
+            "active": true,
+            "countryCode": "PK",
+            "countryThreeLtr": "PAK",
+            "countryName": "Pakistan",
+            "isdCode": "92",
+            "currencyCode": "PKR",
+            "nationality": "Pakistani",
+            "nationalityCode": "PAK",
+            "firstDayInWeek": 1,
+            "numericCountryCode": 11,
+            "regionVO": {
+                "active": true,
+                "regionCode": "ISC",
+                "regionName": "ISC",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        },
+        "PL": {
+            "active": true,
+            "countryCode": "PL",
+            "countryThreeLtr": "POL",
+            "countryName": "Poland",
+            "isdCode": "48",
+            "currencyCode": "PLN",
+            "nationality": "Polish",
+            "nationalityCode": "PL",
+            "numericCountryCode": 48,
+            "regionVO": {
+                "active": true,
+                "regionCode": "EEU",
+                "regionName": "EEU",
+                "countriesVO": []
+            },
+            "statesVO": [],
+            "citiesVO": []
+        }
+    }
+}
